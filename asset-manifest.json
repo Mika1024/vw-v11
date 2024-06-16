@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wellfine-version-1.1/static/css/main.f940770b.css",
-    "main.js": "/wellfine-version-1.1/static/js/main.037c9f43.js",
+    "main.js": "/wellfine-version-1.1/static/js/main.920f0279.js",
     "static/js/787.0b86e9ec.chunk.js": "/wellfine-version-1.1/static/js/787.0b86e9ec.chunk.js",
     "static/media/14.png": "/wellfine-version-1.1/static/media/14.34843b38a220e67ce2ce.png",
     "static/media/20.png": "/wellfine-version-1.1/static/media/20.7e40a09eac5ccc539845.png",
@@ -66,11 +66,11 @@
     "static/media/12.png": "/wellfine-version-1.1/static/media/12.2266f00f9de30abe9b06.png",
     "index.html": "/wellfine-version-1.1/index.html",
     "main.f940770b.css.map": "/wellfine-version-1.1/static/css/main.f940770b.css.map",
-    "main.037c9f43.js.map": "/wellfine-version-1.1/static/js/main.037c9f43.js.map",
+    "main.920f0279.js.map": "/wellfine-version-1.1/static/js/main.920f0279.js.map",
     "787.0b86e9ec.chunk.js.map": "/wellfine-version-1.1/static/js/787.0b86e9ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f940770b.css",
-    "static/js/main.037c9f43.js"
+    "static/js/main.920f0279.js"
   ]
 }
