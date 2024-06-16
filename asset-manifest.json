@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vw-v11/static/css/main.2ac7dde7.css",
-    "main.js": "/vw-v11/static/js/main.6114e9f5.js",
+    "main.js": "/vw-v11/static/js/main.3d45a020.js",
     "static/js/787.0b86e9ec.chunk.js": "/vw-v11/static/js/787.0b86e9ec.chunk.js",
     "static/media/14.png": "/vw-v11/static/media/14.34843b38a220e67ce2ce.png",
     "static/media/20.png": "/vw-v11/static/media/20.7e40a09eac5ccc539845.png",
@@ -66,11 +66,11 @@
     "static/media/12.png": "/vw-v11/static/media/12.2266f00f9de30abe9b06.png",
     "index.html": "/vw-v11/index.html",
     "main.2ac7dde7.css.map": "/vw-v11/static/css/main.2ac7dde7.css.map",
-    "main.6114e9f5.js.map": "/vw-v11/static/js/main.6114e9f5.js.map",
+    "main.3d45a020.js.map": "/vw-v11/static/js/main.3d45a020.js.map",
     "787.0b86e9ec.chunk.js.map": "/vw-v11/static/js/787.0b86e9ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ac7dde7.css",
-    "static/js/main.6114e9f5.js"
+    "static/js/main.3d45a020.js"
   ]
 }
